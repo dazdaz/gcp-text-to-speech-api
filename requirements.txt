@@ -1,0 +1,12 @@
+# Google Cloud Text-to-Speech API
+google-cloud-texttospeech>=2.14.0
+
+# Core dependencies (usually installed with google-cloud-texttospeech)
+google-api-core>=2.11.0
+google-auth>=2.16.0
+proto-plus>=1.22.0
+protobuf>=4.21.0
+
+# Standard library (included with Python, listed for documentation)
+# argparse - included in Python standard library
+# sys - included in Python standard library
